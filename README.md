@@ -15,4 +15,4 @@
 
 
 - its best when you first work with a project to clone it, instead of working fresh on your local computer then git remote add later, it will have inconsistent files or history, however could be easily fixed. but just easier to clone it.
-### git remote add origin https://<i></i>github.com/tingluhk/Proj006
+### git remote add origin https://<i></i>github.com/tingluhk/projectName
