@@ -1,4 +1,4 @@
-# Useful Git Commands1
+# Useful Git Commands
 
 - to see the files that is under tracked of Git
 ### git ls-files
